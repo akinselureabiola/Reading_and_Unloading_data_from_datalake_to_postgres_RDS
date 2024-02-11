@@ -1,2 +1,1 @@
-# Reading_and_Unloading_data_from_datalake_to_postgres_RDS
-Reading and unloading data from datalake to postgres RDS DB
+Reading and unloading customers datas from datalake to postgres RDS DB
